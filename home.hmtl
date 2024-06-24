@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siber Sucularlı</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding-top: 50px;
+            margin: 0;
+        }
+        h1 {
+            color: #333;
+            font-size: 48px;
+        }
+        p {
+            font-size: 20px;
+            color: #666;
+            margin: 20px 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        .footer {
+            margin-top: 50px;
+            font-size: 14px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Siber Sucularlı</h1>
+        <p>Hoş geldiniz! Bu sayfa siber güvenlik meraklıları için hazırlanmıştır. Amacımız, siber güvenlik bilincini artırmak ve bilgi paylaşımını sağlamaktır.</p>
+        <p>Burada çeşitli makaleler, eğitim materyalleri ve siber güvenlik haberleri bulabilirsiniz. Daha fazlası için bizi takip etmeye devam edin.</p>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Siber Sucularlı. Tüm hakları saklıdır.</p>
+    </div>
+</body>
+</html>
