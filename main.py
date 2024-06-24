@@ -4,7 +4,7 @@ import base64
 app = Flask(__name__)
 
 # Base64 ile kodlanmış flag
-F = "SE0yMDI0e1doMF9AbV9JfQ=="
+F = "Q1RGe0dlY21pc2lfc29yZ3VsYW1hfQ=="
 
 # Basit bir kullanıcı doğrulama sistemi için örnek kullanıcı verileri
 users = {
